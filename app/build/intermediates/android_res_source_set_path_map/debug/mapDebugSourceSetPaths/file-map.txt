@@ -1,0 +1,49 @@
+com.kavyakanaja.app-lifecycle-livedata-core-2.8.3-0 C:\Users\prakr\.gradle\caches\9.1.0\transforms\07b68834274906b3dd9e66dde854d9a4\workspace\transformed\lifecycle-livedata-core-2.8.3\res
+com.kavyakanaja.app-customview-poolingcontainer-1.0.0-1 C:\Users\prakr\.gradle\caches\9.1.0\transforms\0d4e3255a0cbda401caa89ee7bb2bacc\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.kavyakanaja.app-annotation-experimental-1.4.0-2 C:\Users\prakr\.gradle\caches\9.1.0\transforms\131f3c718dcea11a7eef2af8213e1185\workspace\transformed\annotation-experimental-1.4.0\res
+com.kavyakanaja.app-savedstate-ktx-1.2.1-3 C:\Users\prakr\.gradle\caches\9.1.0\transforms\16e74b7a5d62b4508e2b5ad312910b39\workspace\transformed\savedstate-ktx-1.2.1\res
+com.kavyakanaja.app-ui-tooling-data-release-4 C:\Users\prakr\.gradle\caches\9.1.0\transforms\1d65cc3504184534242c1b544e5c226e\workspace\transformed\ui-tooling-data-release\res
+com.kavyakanaja.app-animation-core-release-5 C:\Users\prakr\.gradle\caches\9.1.0\transforms\203003c979d70abbc310f502716ae6fc\workspace\transformed\animation-core-release\res
+com.kavyakanaja.app-profileinstaller-1.3.1-6 C:\Users\prakr\.gradle\caches\9.1.0\transforms\2271b4fe2c3615a0c09ea601d0c8c4e1\workspace\transformed\profileinstaller-1.3.1\res
+com.kavyakanaja.app-ui-unit-release-7 C:\Users\prakr\.gradle\caches\9.1.0\transforms\22d88bdbd96399ee994f498affb76e43\workspace\transformed\ui-unit-release\res
+com.kavyakanaja.app-material-ripple-release-8 C:\Users\prakr\.gradle\caches\9.1.0\transforms\2b63111d7679c73ca7a6d6d10d25682c\workspace\transformed\material-ripple-release\res
+com.kavyakanaja.app-ui-release-9 C:\Users\prakr\.gradle\caches\9.1.0\transforms\2be8bbd69a21c80a15e3875d783bc563\workspace\transformed\ui-release\res
+com.kavyakanaja.app-foundation-release-10 C:\Users\prakr\.gradle\caches\9.1.0\transforms\30037182e6c334b4742d2d30ed6a049f\workspace\transformed\foundation-release\res
+com.kavyakanaja.app-ui-tooling-release-11 C:\Users\prakr\.gradle\caches\9.1.0\transforms\3d04f675460692dfc066573fa03db792\workspace\transformed\ui-tooling-release\res
+com.kavyakanaja.app-emoji2-1.3.0-12 C:\Users\prakr\.gradle\caches\9.1.0\transforms\71cba9578c1201ffc2eba4521ea825f1\workspace\transformed\emoji2-1.3.0\res
+com.kavyakanaja.app-ui-geometry-release-13 C:\Users\prakr\.gradle\caches\9.1.0\transforms\720ad640021c8b91df5bd528fd7f3f0a\workspace\transformed\ui-geometry-release\res
+com.kavyakanaja.app-material-release-14 C:\Users\prakr\.gradle\caches\9.1.0\transforms\83c92291e40d4c99f54585d17e755599\workspace\transformed\material-release\res
+com.kavyakanaja.app-core-runtime-2.2.0-15 C:\Users\prakr\.gradle\caches\9.1.0\transforms\8430e97d42528112df68e05be7ff515e\workspace\transformed\core-runtime-2.2.0\res
+com.kavyakanaja.app-ui-text-release-16 C:\Users\prakr\.gradle\caches\9.1.0\transforms\8e2cf474a41a59e366c987d258ac1eaa\workspace\transformed\ui-text-release\res
+com.kavyakanaja.app-lifecycle-process-2.8.3-17 C:\Users\prakr\.gradle\caches\9.1.0\transforms\90938bac3cfb1f0150ac3396be5b65a2\workspace\transformed\lifecycle-process-2.8.3\res
+com.kavyakanaja.app-activity-1.8.2-18 C:\Users\prakr\.gradle\caches\9.1.0\transforms\9a457865e729517761112f519f715e93\workspace\transformed\activity-1.8.2\res
+com.kavyakanaja.app-foundation-layout-release-19 C:\Users\prakr\.gradle\caches\9.1.0\transforms\9ad7fc863a5be7691baa5723eaeae07d\workspace\transformed\foundation-layout-release\res
+com.kavyakanaja.app-startup-runtime-1.1.1-20 C:\Users\prakr\.gradle\caches\9.1.0\transforms\9b753c27f0950f922808f95d32c09881\workspace\transformed\startup-runtime-1.1.1\res
+com.kavyakanaja.app-activity-compose-1.8.2-21 C:\Users\prakr\.gradle\caches\9.1.0\transforms\9d2c2ed18f2c5dae81f1aa21a9fb96d5\workspace\transformed\activity-compose-1.8.2\res
+com.kavyakanaja.app-lifecycle-viewmodel-release-22 C:\Users\prakr\.gradle\caches\9.1.0\transforms\9ea5734bf464b11ead4acd1521f286db\workspace\transformed\lifecycle-viewmodel-release\res
+com.kavyakanaja.app-runtime-release-23 C:\Users\prakr\.gradle\caches\9.1.0\transforms\a5be7e70546bae409afdab29cbe6b267\workspace\transformed\runtime-release\res
+com.kavyakanaja.app-core-ktx-1.13.1-24 C:\Users\prakr\.gradle\caches\9.1.0\transforms\a640df9744cabe11530b350d3340fc81\workspace\transformed\core-ktx-1.13.1\res
+com.kavyakanaja.app-graphics-path-1.0.1-25 C:\Users\prakr\.gradle\caches\9.1.0\transforms\a7a864577908d14cd0443307e1d61bcf\workspace\transformed\graphics-path-1.0.1\res
+com.kavyakanaja.app-lifecycle-runtime-ktx-release-26 C:\Users\prakr\.gradle\caches\9.1.0\transforms\a9ad367928d4fb048e34b8d971eb5525\workspace\transformed\lifecycle-runtime-ktx-release\res
+com.kavyakanaja.app-material3-release-27 C:\Users\prakr\.gradle\caches\9.1.0\transforms\aca98ebd106882ee4cc33bb088d9f4da\workspace\transformed\material3-release\res
+com.kavyakanaja.app-lifecycle-viewmodel-savedstate-2.8.3-28 C:\Users\prakr\.gradle\caches\9.1.0\transforms\adf0c32c6ccb63fe6fd877a32e30a124\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.kavyakanaja.app-ui-tooling-preview-release-29 C:\Users\prakr\.gradle\caches\9.1.0\transforms\b271d8170f6d4cb94341434e75129258\workspace\transformed\ui-tooling-preview-release\res
+com.kavyakanaja.app-animation-release-30 C:\Users\prakr\.gradle\caches\9.1.0\transforms\b6a04cb1a06bb359b59086cb34f95899\workspace\transformed\animation-release\res
+com.kavyakanaja.app-core-1.13.1-31 C:\Users\prakr\.gradle\caches\9.1.0\transforms\b850637b981f5b790d9b3c16e33edd73\workspace\transformed\core-1.13.1\res
+com.kavyakanaja.app-lifecycle-runtime-compose-release-32 C:\Users\prakr\.gradle\caches\9.1.0\transforms\caf03b548848b511af9669e457e5559d\workspace\transformed\lifecycle-runtime-compose-release\res
+com.kavyakanaja.app-activity-ktx-1.8.2-33 C:\Users\prakr\.gradle\caches\9.1.0\transforms\cddb7d726dafe36273c880bd51e3d669\workspace\transformed\activity-ktx-1.8.2\res
+com.kavyakanaja.app-lifecycle-viewmodel-ktx-2.8.3-34 C:\Users\prakr\.gradle\caches\9.1.0\transforms\d2087561e12cbc75e42d62de34aa8ed8\workspace\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.kavyakanaja.app-lifecycle-runtime-release-35 C:\Users\prakr\.gradle\caches\9.1.0\transforms\d4f1b944fc2b9f31a94200c3033c4586\workspace\transformed\lifecycle-runtime-release\res
+com.kavyakanaja.app-ui-util-release-36 C:\Users\prakr\.gradle\caches\9.1.0\transforms\d7f4db720de31953fe2188315c3477e3\workspace\transformed\ui-util-release\res
+com.kavyakanaja.app-material-icons-extended-release-37 C:\Users\prakr\.gradle\caches\9.1.0\transforms\e58ddba05c71998860769681f2cdc44b\workspace\transformed\material-icons-extended-release\res
+com.kavyakanaja.app-material-icons-core-release-38 C:\Users\prakr\.gradle\caches\9.1.0\transforms\e7b7daf75e83f41439439166455b2d57\workspace\transformed\material-icons-core-release\res
+com.kavyakanaja.app-savedstate-1.2.1-39 C:\Users\prakr\.gradle\caches\9.1.0\transforms\edad286012bb352507b0fd8d05efa9da\workspace\transformed\savedstate-1.2.1\res
+com.kavyakanaja.app-ui-graphics-release-40 C:\Users\prakr\.gradle\caches\9.1.0\transforms\f53be4113c1669c2fc30e4940006224f\workspace\transformed\ui-graphics-release\res
+com.kavyakanaja.app-runtime-saveable-release-41 C:\Users\prakr\.gradle\caches\9.1.0\transforms\fda76306f2efded3b1dd8efef5396a24\workspace\transformed\runtime-saveable-release\res
+com.kavyakanaja.app-pngs-42 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\build\generated\res\pngs\debug
+com.kavyakanaja.app-updated_navigation_xml-43 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\build\generated\updated_navigation_xml\debug
+com.kavyakanaja.app-packageDebugResources-44 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kavyakanaja.app-packageDebugResources-45 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kavyakanaja.app-debug-46 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.kavyakanaja.app-debug-47 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\src\debug\res
+com.kavyakanaja.app-main-48 C:\Users\prakr\OneDrive\Desktop\Kavya Kanaja\app\src\main\res

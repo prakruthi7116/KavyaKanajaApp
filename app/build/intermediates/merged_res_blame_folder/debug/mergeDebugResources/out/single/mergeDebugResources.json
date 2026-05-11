@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.kavyakanaja.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.kavyakanaja.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kavyakanaja.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kavyakanaja.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kavyakanaja.app-debug-45:/raw_poetry_database.json.flat",
+        "source": "com.kavyakanaja.app-main-47:/raw/poetry_database.json"
+    }
+]

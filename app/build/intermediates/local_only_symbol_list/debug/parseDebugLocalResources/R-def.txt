@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+raw poetry_database
+string app_name
+style Theme.KavyaKanaja
+xml backup_rules
+xml data_extraction_rules

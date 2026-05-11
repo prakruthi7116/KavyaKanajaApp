@@ -1,0 +1,6 @@
+com.kavyakanaja.app
+raw poetry_database
+string app_name
+style Theme_KavyaKanaja
+xml backup_rules
+xml data_extraction_rules

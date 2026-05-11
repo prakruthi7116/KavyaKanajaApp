@@ -1,0 +1,68 @@
+[
+  {
+    "id": "akkamahadevi-vachana-01",
+    "title": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+    "poet": "Akka Mahadevi",
+    "verse": "ಬೆಟ್ಟದ ಮೇಲೊಂದು ಮನೆಯ ಮಾಡಿ\nಮೃಗಗಳಿಗೆ ಅಂಜಿದೊಡೆಂತಯ್ಯ?",
+    "bhavartha": "A life built on truth cannot be shaken by fear. Akka Mahadevi asks us to live with courage once we have chosen a higher path.",
+    "audio_url": "",
+    "era": "Vachana",
+    "poet_bio": "A 12th-century mystic poet whose vachanas gave Kannada literature a fearless voice of devotion and independence.",
+    "jnanpith": false
+  },
+  {
+    "id": "basavanna-vachana-01",
+    "title": "ಕಾಯಕವೇ ಕೈಲಾಸ",
+    "poet": "Basavanna",
+    "verse": "ಉಳ್ಳವರು ಶಿವಾಲಯ ಮಾಡುವರು\nನಾನೇನು ಮಾಡಲಿ ಬಡವನಯ್ಯ?",
+    "bhavartha": "Basavanna turns devotion into daily work. The body, the job, and honest effort become a temple.",
+    "audio_url": "",
+    "era": "Vachana",
+    "poet_bio": "A philosopher, social reformer, and poet from the 12th century who made spiritual thought direct and democratic.",
+    "jnanpith": false
+  },
+  {
+    "id": "kuvempu-rashtra-01",
+    "title": "ವಿಶ್ವಮಾನವ",
+    "poet": "Kuvempu",
+    "verse": "ಓ ನನ್ನ ಚೇತನ\nಆಗು ನೀ ಅನಿಕೇತನ",
+    "bhavartha": "Kuvempu invites the mind to grow beyond narrow walls and become universal in sympathy, thought, and action.",
+    "audio_url": "",
+    "era": "Navodaya",
+    "poet_bio": "Kuppali Venkatappa Puttappa, known as Kuvempu, was a major modern Kannada poet and Jnanpith awardee.",
+    "jnanpith": true
+  },
+  {
+    "id": "bendre-nadaleele-01",
+    "title": "ನಾಡ ಲೀಲಾ",
+    "poet": "D. R. Bendre",
+    "verse": "ನಾನು ಬಡವಿ ಆತ ಬಡವ\nಒಲವೆ ನಮ್ಮ ಬದುಕು",
+    "bhavartha": "Bendre makes love feel like wealth. The poem celebrates tenderness as the real measure of a life.",
+    "audio_url": "",
+    "era": "Navodaya",
+    "poet_bio": "Da. Ra. Bendre was a lyrical Kannada poet whose work blended folk rhythm, philosophy, and modern feeling.",
+    "jnanpith": true
+  },
+  {
+    "id": "kanakadasa-keertane-01",
+    "title": "ಬಾಗಿಲನು ತೆರೆದು",
+    "poet": "Kanakadasa",
+    "verse": "ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ಕೊಡೊ ಹರಿಯೇ",
+    "bhavartha": "Kanakadasa turns longing into song, asking for a doorway into grace and equality.",
+    "audio_url": "",
+    "era": "Dasa Sahitya",
+    "poet_bio": "A saint-poet and composer whose devotional songs remain central to Kannada cultural memory.",
+    "jnanpith": false
+  },
+  {
+    "id": "pampa-adipurana-01",
+    "title": "ಆದಿಪುರಾಣ",
+    "poet": "Adikavi Pampa",
+    "verse": "ಮಾನವಕುಲದ ಮಹಿಮೆ ಧರ್ಮದೊಳಗಿದೆ",
+    "bhavartha": "Pampa's classical imagination connects human greatness with discipline, ethics, and inner refinement.",
+    "audio_url": "",
+    "era": "Halegannada",
+    "poet_bio": "Known as Adikavi, Pampa is one of the earliest and most influential poets of classical Kannada literature.",
+    "jnanpith": false
+  }
+]
